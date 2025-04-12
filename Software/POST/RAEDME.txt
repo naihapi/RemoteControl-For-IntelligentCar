@@ -1,0 +1,2 @@
+此文件包含请求体，例如前车灯状态“POST_CarlightF”、超声波距离“POST_UltraSound_Value”等（可能变量不叫这个名字）
+这些请求字符串将通过CC2530发送到车体

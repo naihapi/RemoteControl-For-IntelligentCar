@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "random": "c",
+        "cstdint": "cpp",
+        "string": "c",
+        "array": "c",
+        "string_view": "c",
+        "memory": "c",
+        "optional": "c"
+    }
+}
